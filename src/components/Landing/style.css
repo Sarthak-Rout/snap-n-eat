@@ -7,10 +7,11 @@
 
 .login-btn{
     position: absolute;
-    left: 10%;
-    bottom: 50%;
-    font-size: 1.5rem;
-    border-radius: 10px;
+    left: 3%;
+    bottom: 30%;
+    font-size: 1.8rem;
+    border-radius: 35px;
+    padding: 25px;
 
 }
 
